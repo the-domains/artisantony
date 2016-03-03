@@ -1,0 +1,28 @@
+name: ArtisanTony
+favicon: null
+layout_spectrum: 0.5276737336535007
+typography_spectrum: 0.23029693425633013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15670933946967125
+  lightness: 0.5851785412523896
+  saturation: 0.9384386155288666
+  rhythmicContrast: 0.10890519595704973
+purpose: []
