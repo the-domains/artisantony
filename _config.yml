@@ -1,7 +1,7 @@
 name: ArtisanTony
 favicon: null
-layout_spectrum: 0.5276737336535007
-typography_spectrum: 0.23029693425633013
+layout_spectrum: 0.92115
+typography_spectrum: 0.57912
 title: ArtisanTony on the Grid
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#313131'
     - '#5f5f5f'
     - '#8f8f8f'
-  brandStrength: 0.15670933946967125
+  brandStrength: 0.75
   lightness: 0.5851785412523896
   saturation: 0.9384386155288666
   rhythmicContrast: 0.10890519595704973
