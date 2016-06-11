@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ArtisanTony]]></title>
-        <description><![CDATA[ArtisanTony]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ArtisanTony on the Grid]]></title>
+        <description><![CDATA[ArtisanTony on the Grid]]></description>
+        <link>https://thegrid.ai/artisantony/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:39:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 14:55:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artisantony/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a03b381-44b2-4a4a-9f57-ed5eb25bd15f.jpg">]]></description>
-            <link>undefined6e84c942-edcc-4e95-9961-25ecde4eb982/index.html</link>
+            <link>https://thegrid.ai/artisantony/6e84c942-edcc-4e95-9961-25ecde4eb982/index.html</link>
             <guid isPermaLink="false">6e84c942-edcc-4e95-9961-25ecde4eb982</guid>
-            <pubDate>Thu, 03 Mar 2016 20:39:38 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2016 14:55:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
